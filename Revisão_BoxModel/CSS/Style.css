@@ -1,0 +1,16 @@
+.section-one{
+    width: 200px;
+    height: 150;
+    color: white;
+    background-color: aqua;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyoTCPx_RuDqd-oFnw8X6ROfF7I96xJ2jupw&usqp=CAU);
+    background-size: cover;
+    background-position: center center;
+    border: 5px solid black;
+    padding: 15px;
+    margin: 0 20 0 0;
+}
+
+.section-two{
+    background-color: brown;
+}
